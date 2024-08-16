@@ -12,8 +12,6 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 
 #
 
-Common radio frequencies:
-
 | Frequency Range    | Band Designation               | Common Applications                                  |
 |--------------------|--------------------------------|------------------------------------------------------|
 | 3 kHz - 30 kHz     | Very Low Frequency (VLF)       | Submarine communication, navigation beacons          |
