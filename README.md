@@ -25,7 +25,6 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 
 #
 
-+-------------------------------------+-------------------------+
 | Radio Technology                    | Frequency Range         |
 +-------------------------------------+-------------------------+
 | AM Radio                            | 530 – 1710 kHz          |
@@ -47,7 +46,6 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 | X-Band Satellite Communications     | 8 – 12 GHz              |
 | Ku-Band Satellite Communications    | 12 – 18 GHz             |
 | Ka-Band Satellite Communications    | 26.5 – 40 GHz           |
-+-------------------------------------+-------------------------+
 
 #
 ### Related Links
