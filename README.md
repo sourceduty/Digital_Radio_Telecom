@@ -11,6 +11,21 @@ One of the key functions of this GPT is to offer troubleshooting advice for comm
 Furthermore, the custom GPT maintains a professional and informative tone, ensuring that responses are both authoritative and easy to understand. It carefully balances the need to convey technical accuracy with the importance of making information accessible, even for those who may not have a deep technical background. When confronted with vague or unclear requests, the GPT makes educated assumptions to provide the most relevant information while gently guiding the user back to the core focus of radio engineering and telecommunications.
 
 #
+
+Common radio frequencies:
+
+| Frequency Range    | Band Designation               | Common Applications                                  |
+|--------------------|--------------------------------|------------------------------------------------------|
+| 3 kHz - 30 kHz     | Very Low Frequency (VLF)       | Submarine communication, navigation beacons          |
+| 30 kHz - 300 kHz   | Low Frequency (LF)             | AM longwave broadcasting, navigational aids          |
+| 300 kHz - 3 MHz    | Medium Frequency (MF)          | AM radio broadcasting, maritime communication        |
+| 3 MHz - 30 MHz     | High Frequency (HF)            | Shortwave radio, amateur radio, aviation             |
+| 30 MHz - 300 MHz   | Very High Frequency (VHF)      | FM radio, television broadcasting, land mobile radio |
+| 300 MHz - 3 GHz    | Ultra High Frequency (UHF)     | TV broadcasting, mobile phones, GPS, Wi-Fi           |
+| 3 GHz - 30 GHz     | Super High Frequency (SHF)     | Satellite communication, radar, microwave devices    |
+| 30 GHz - 300 GHz   | Extremely High Frequency (EHF) | Millimeter wave radar, experimental communications   |
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
