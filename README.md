@@ -24,6 +24,32 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 | 30 GHz - 300 GHz   | Extremely High Frequency (EHF) | Millimeter wave radar, experimental communications   |
 
 #
+
++-------------------------------------+-------------------------+
+| Radio Technology                    | Frequency Range         |
++-------------------------------------+-------------------------+
+| AM Radio                            | 530 – 1710 kHz          |
+| FM Radio                            | 88 – 108 MHz            |
+| Shortwave Radio                     | 1.6 – 30 MHz            |
+| Citizen's Band (CB) Radio           | 26.965 – 27.405 MHz     |
+| TV Broadcast (VHF)                  | 54 – 88 MHz             |
+| TV Broadcast (UHF)                  | 470 – 890 MHz           |
+| Wi-Fi (2.4 GHz band)                | 2.4 – 2.4835 GHz        |
+| Wi-Fi (5 GHz band)                  | 5.150 – 5.825 GHz       |
+| Bluetooth                           | 2.4 – 2.4835 GHz        |
+| Zigbee                              | 2.4 – 2.4835 GHz        |
+| LTE (4G Cellular)                   | 600 MHz – 2.7 GHz       |
+| 5G NR (New Radio)                   | 600 MHz – 52 GHz        |
+| GPS                                 | 1.2276 & 1.57542 GHz    |
+| L-Band Satellite Communications     | 1 – 2 GHz               |
+| S-Band Satellite Communications     | 2 – 4 GHz               |
+| C-Band Satellite Communications     | 4 – 8 GHz               |
+| X-Band Satellite Communications     | 8 – 12 GHz              |
+| Ku-Band Satellite Communications    | 12 – 18 GHz             |
+| Ka-Band Satellite Communications    | 26.5 – 40 GHz           |
++-------------------------------------+-------------------------+
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
