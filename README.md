@@ -26,7 +26,7 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 #
 
 | Radio Technology                    | Frequency Range         |
-+-------------------------------------+-------------------------+
+|-------------------------------------|-------------------------|
 | AM Radio                            | 530 – 1710 kHz          |
 | FM Radio                            | 88 – 108 MHz            |
 | Shortwave Radio                     | 1.6 – 30 MHz            |
