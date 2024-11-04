@@ -1,4 +1,4 @@
-![Digital Radio](https://github.com/user-attachments/assets/5822d547-9aac-40c4-8bdc-325dc15fa689)
+![Retro Radiocar](https://github.com/user-attachments/assets/92af4478-2f5a-4edd-b925-9c09b47c323f)
 
 > Assistive radio engineering and telecom specialist.
 
@@ -9,6 +9,10 @@
 One of the key functions of this GPT is to offer troubleshooting advice for common issues encountered in radio communication systems. Whether it's resolving problems with signal interference, optimizing antenna performance, or understanding the intricacies of modern wireless technologies, this GPT aims to provide users with actionable solutions. Additionally, it keeps users informed about the latest advancements in radio technology and telecommunications, ensuring they stay updated on cutting-edge developments in the industry.
 
 Furthermore, the custom GPT maintains a professional and informative tone, ensuring that responses are both authoritative and easy to understand. It carefully balances the need to convey technical accuracy with the importance of making information accessible, even for those who may not have a deep technical background. When confronted with vague or unclear requests, the GPT makes educated assumptions to provide the most relevant information while gently guiding the user back to the core focus of radio engineering and telecommunications.
+
+#
+
+![Digital Radio](https://github.com/user-attachments/assets/5822d547-9aac-40c4-8bdc-325dc15fa689)
 
 #
 
@@ -46,6 +50,9 @@ Furthermore, the custom GPT maintains a professional and informative tone, ensur
 | X-Band Satellite Communications     | 8 – 12 GHz              |
 | Ku-Band Satellite Communications    | 12 – 18 GHz             |
 | Ka-Band Satellite Communications    | 26.5 – 40 GHz           |
+| RFID (Low Frequency)                | 125 – 134 kHz           |
+| RFID (High Frequency)               | 13.56 MHz               |
+| RFID (Ultra High Frequency)         | 860 – 960 MHz           |
 
 #
 ### Related Links
